@@ -6,3 +6,4 @@ psutil
 python-ffmpeg
 pornhub-api==0.2.0
 youtube-dl
+gunicorn==20.1.0
